@@ -1,0 +1,40 @@
+body {
+    background-color: #afafaf;
+}
+
+.tabe {
+    padding: 100px;
+}
+
+j {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: red;
+}
+
+k {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: rgb(89, 0, 255);
+}
+
+.c-u{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: greenyellow;
+}
+
+.plink{
+    position: absolute;
+    right: 0;
+}
+
+.no-click{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50;
+    padding-bottom: 30px;
+}
